@@ -1,3 +1,9 @@
+npm -version
+8.19.4
+------------------------------------------------------------------------------------------------
+node --version
+v16.20.2
+------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
